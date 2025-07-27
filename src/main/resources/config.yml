@@ -1,0 +1,15 @@
+
+#
+# Eternal Anti Cheat by Eternal Polar
+# If you get some wrong, please go to Spigot for help
+#
+
+Warning:
+  warning-threshold: 20
+  warning-cooldown: 5
+  decay-interval: 100000
+  decay-amount: 1
+  log-to-console: true
+  notify-ops: true
+  execute-commands:
+    - "kick %player% &7[&bEternal&3AntiCheat&7] &cYou are using hack client!"

@@ -1,0 +1,12 @@
+enable: true
+max-ascend-speed: 0.42
+max-descend-speed: 0.56
+max-horizontal-speed: 0.36
+min-glide-threshold: 0.98
+rollback-seconds: 2.0
+rollback-strength: 0.7
+min-fall-distance: 2.0
+fall-velocity-threshold: -0.3
+water-exemption: true
+max-vertical-search: 10
+flag: "Fly"

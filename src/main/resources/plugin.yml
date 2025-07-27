@@ -1,0 +1,6 @@
+name: EternalAntiCheat
+version: '${version}'
+main: eternalpolar.spigot.eternalanticheat.EternalAntiCheat
+commands:
+  eternalanticheat:
+    aliases: [eac]

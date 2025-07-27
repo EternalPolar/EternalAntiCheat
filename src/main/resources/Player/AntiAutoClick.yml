@@ -1,0 +1,6 @@
+enabled: true
+max-left-cps: 15
+max-right-cps: 12
+check-window: 1000
+block-exemption-distance: 5.0
+flag: "AutoClick"
